@@ -3,4 +3,5 @@
 void main()
 {
     printf("Privet, devochki!");
+    //123
 }
